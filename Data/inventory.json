@@ -30,58 +30,5 @@
         "price": "10",
         "id": 6
       }
-    ],
-    "orders": [
-      {
-        "firstName": "John",
-        "lastName": "Wayne",
-        "telephone": "123-322-2121",
-        "email": "test1@gmail.com",
-        "purchase": [
-          0,
-          0,
-          1,
-          1,
-          1,
-          0,
-          0
-        ],
-        "id": 1
-      },
-      {
-        "firstName": "Harry ",
-        "lastName": "Potter",
-        "telephone": "125-544-4545",
-        "email": "test32@gmail.com",
-        "purchase": [
-          0,
-          0,
-          0,
-          1,
-          0,
-          2,
-          0
-        ],
-        "id": 4
-      },
-      {
-        "firstName": "Ron",
-        "lastName": "Weasley",
-        "telephone": "123-322-2121",
-        "email": "test45@gmail.com",
-        "purchase": [
-          0,
-          0,
-          1,
-          0,
-          0,
-          0,
-          1,
-          0,
-          0,
-          0
-        ],
-        "id": 5
-      }
     ]
 }  
